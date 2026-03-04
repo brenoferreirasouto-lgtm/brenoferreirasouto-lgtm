@@ -15,15 +15,8 @@ Meu objetivo atual é aplicar meus conhecimentos em um ambiente profissional, co
 
 ---
 
-### 📈 Meus Projetos em Destaque:
-*(Dica: Assim que terminar um projeto Python, coloque o link aqui!)*
-- [🐍 Nome do Projeto Python] - Breve descrição do que o projeto faz e qual problema resolve.
-- [🌐 Site Voto] - Verificador de elegibilidade eleitoral desenvolvido para praticar lógica inicial.
-
----
-
 ### 📫 Vamos nos conectar?
-- **LinkedIn:** [Breno Ferreira Souto](https://www.linkedin.com/in/breno-ferreira-souto-b360063a6/)
+- **LinkedIn:** https://www.linkedin.com/in/breno-ferreira-souto-b360063a6/
 - **E-mail:** brenoferreirasouto@gmail.com
 
 ---
