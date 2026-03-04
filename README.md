@@ -2,7 +2,7 @@
 
 Estudante apaixonado por tecnologia e solução de problemas através do código. Atualmente, estou mergulhado no ecossistema **Python**, desenvolvendo projetos que unem lógica de programação, automação e boas práticas de desenvolvimento.
 
-### 2026: O Ano do Estágio 🎯
+### Objetivo 🎯
 Meu objetivo atual é aplicar meus conhecimentos em um ambiente profissional, contribuindo para o time enquanto acelero meu aprendizado prático.
 
 ---
