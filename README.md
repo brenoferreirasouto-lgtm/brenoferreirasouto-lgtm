@@ -24,7 +24,7 @@ Meu objetivo atual é aplicar meus conhecimentos em um ambiente profissional, co
 
 ### 📫 Vamos nos conectar?
 - **LinkedIn:** [Breno Ferreira Souto](https://www.linkedin.com/in/breno-ferreira-souto-b360063a6/)
-- **E-mail:** [brenoferreirasouto@gmail.com]
+- **E-mail:** (brenoferreirasouto@gmail.com)
 
 ---
 
